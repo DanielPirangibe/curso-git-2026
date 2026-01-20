@@ -2,3 +2,4 @@ ls -> Lista os arquivos
 cd-> move entre os diretórios
 pwd-> mostra diretório de trabalho
 cat -> mostra o que tem dentro do arquivo
+rm -> remove aquivo ou diretório
