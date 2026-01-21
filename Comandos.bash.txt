@@ -4,3 +4,5 @@ pwd-> mostra diretório de trabalho
 cat -> mostra o que tem dentro do arquivo
 rm -> remove aquivo ou diretório
 rm -rf  -> remove de maneira recursiva e forçada todos os diretórios
+
+tomanucu
