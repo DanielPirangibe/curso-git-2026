@@ -1,0 +1,1 @@
+Esse arquivo vai mostrar comandos secundários do Git.
