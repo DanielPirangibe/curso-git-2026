@@ -1,1 +1,3 @@
 Esse arquivo vai mostrar comandos secundários do Git.
+
+Eu amo a minha mulher. Ela é tudo para mim e minha maior motivação de vida é poder dar uma vida digna à ela e nossa família que virá.
